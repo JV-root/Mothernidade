@@ -4,7 +4,7 @@
 <p align="center">
   <img src="Mothernidade/assets/img/imgs/_Logotipo.png" alt="Logo" width="180" height="180">
 
-  <h3 align="center">Mothernidade</h3>
+  <h2 align="center">Mothernidade</h3>
 
   <p align="center">
     Uma interface simples para que gestantes possam se informar sobre Hipertensão Gestacional.
@@ -27,7 +27,7 @@
   <summary>Conteúdo</summary>
   <ol>
     <li>
-      <a href="## Sobre o Projeto">Sobre o Projeto</a>
+      <a href="#Sobre-o-Projeto">Sobre o Projeto</a>
       <ul>
         <li><a href="#built-with">Tecnologias</a></li>
       </ul>
