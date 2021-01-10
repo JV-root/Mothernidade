@@ -2,7 +2,7 @@
 
 <br><br>
 <p align="center">
-  <img src="./assets/img/imgs/_Logotipo.png" alt="Logo" width="180" height="180">
+  <img src="Mothernidade/assets/img/imgs/_Logotipo.png" alt="Logo" width="180" height="180">
 
   <h3 align="center">Mothernidade</h3>
 
