@@ -48,7 +48,7 @@
 ## Sobre o Projeto
 <br>
 
-![](assets\img\imgs\Capture.PNG)
+![](Mothernidade\assets\img\imgs\Capture.PNG)
 
 Projeto desenvolvido como Trabalho de conclusão de curso (TCC) do curso Técnico de Desenvolvimento de Sistemas da instituição Centro Paula Souza (ETEC) com o principal tema abordado o auxílio para Gestantes com Hipertensão e/ou pre-emclâmpsia ou emclâmpsia. Com Base nos 17 Objetivos de Desenvolvimento da ONU para até 2030, mais especificamente no tópico 3 saúde e bem-estar.
 
