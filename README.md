@@ -21,6 +21,7 @@
 </p>
 
 
+
 <details open="open">
   <summary><h2 style="display: inline-block">Conteúdo</h2></summary>
   <ol>
@@ -36,7 +37,7 @@
         <li><a href="#installation">Instalação</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Uso</a></li>
+    <li><a href="#usage">Exemplo de uso</a></li>
     <li><a href="#contributing">Contribuição</a></li>
     <li><a href="#contact">Contato</a></li>
   </ol>
