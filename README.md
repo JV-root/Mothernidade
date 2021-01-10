@@ -29,18 +29,18 @@
     <li>
       <a href="#Sobre-o-Projeto">Sobre o Projeto</a>
       <ul>
-        <li><a href="#built-with">Tecnologias</a></li>
+        <li><a href="#Tecnologias">Tecnologias</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Configuração para Desenvolvimento</a>
+      <a href="#Configuração-para-Desenvolvimento">Configuração para Desenvolvimento</a>
       <ul>
-        <li><a href="#installation">Instalação</a></li>
+        <li><a href="#instalação">Instalação</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Exemplos de Uso</a></li>
-    <li><a href="#contributing">Contribuição</a></li>
-    <li><a href="#contact">Contato</a></li>
+    <li><a href="#Exemplos-de-Uso">Exemplos de Uso</a></li>
+    <li><a href="#Contribuição">Contribuição</a></li>
+    <li><a href="#Contato">Contato</a></li>
   </ol>
 </details>
 
