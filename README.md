@@ -115,9 +115,9 @@ _Para melhores exemplos, consultar o TCC escrito [Documentação](https://exampl
 
 ## Contato
 
-João Victor - [@twitter_handle](https://twitter.com/twitter_handle) - email
+João Victor - [@twitter_handle](https://twitter.com/JvRoot3985) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/github_username/repo_name](https://github.com/JV-root/Mothernidade)
 
 
 
