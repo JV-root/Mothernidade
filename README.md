@@ -89,7 +89,7 @@ Crie uma pasta local e execute os seguintes passos:
 * Pode ser usado para a orientação sobre o estado da pressão após medição.
 * Guardar registros da pressão arterial como um histórico para posteriormente mostrar ao médico responsável pelo pré-natal.
 
-_Para melhores exemplos, consultar o TCC escrito [Documentação](https://example.com)_
+_Para melhores exemplos, consultar o TCC escrito [Documentação](https://drive.google.com/file/d/1arx7SSjSiFScCjGQza_IypxKzEs51I9s/view?usp=sharing)_
 
 
 
